@@ -9,5 +9,6 @@ public class MainUtilActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_umain);
+        new LogDebug().d("HHHHH");
     }
 }
