@@ -2,7 +2,7 @@ package com.example.logutil;
 
 import android.util.Log;
 
-public class LogDebug {
+class LogDebug {
 
     private static final String TAG = "MyApp";
 
